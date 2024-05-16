@@ -10,7 +10,7 @@ I'm a passionate tech blogger and innovative software architect with over 10 yea
 
 🏆 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=discitte&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs" alt="Max's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=discitte&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="Max's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discitte&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
